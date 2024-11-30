@@ -24,11 +24,6 @@
 - [x] SoundCloud
 - [x] Spotify
 
-## 🚨 Vous avez un problème ?
-
-✈ Rejoignez le Discord : [Serenade ♪](https://discord.gg/serenade)  
-Mentionnez-moi dans les salons #general ou #javascript et posez votre problème. 👌
-
 ## 🛑 Pré-requis
 
 Node.js **[Télécharger](https://nodejs.org/dist/v17.0.1/node-v17.0.1-x64.msi)**
